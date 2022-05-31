@@ -1,6 +1,6 @@
-// // Uncomment this entire file
+// // // Uncomment this entire file
 
-package main
+// package main
 
 // import (
 // 	"fmt",
@@ -21,23 +21,23 @@ package main
 
 // 	// 	// ****************************
 
-// 	// if someVar > 100 {
-// 	// 	fmt.Println("Greater than 100")
-// 	// } else if someVar == 100 {
-// 	// 	fmt.Println("Equals 100")
-// 	// } else {
-// 	// 	fmt.Println("Less than 100")
-// 	// }
+// 	if someVar > 100 {
+// 		fmt.Println("Greater than 100")
+// 	} else if someVar == 100 {
+// 		fmt.Println("Equals 100")
+// 	} else {
+// 		fmt.Println("Less than 100")
+// 	}
 
 // 	// 	// ****************************
-// 	// err := someFunction()
+// 	err := someFunction()
 // 	// // => If this function returns a value,
 // 	// // => it will be an  error of type Error
 
 // 	// 	// ****************************
-// 	// if err != nil {
-// 	//   fmt.Println(err.Error())
-// 	// }
+// 	if err != nil {
+// 	  fmt.Println(err.Error())
+// 	}
 
 // 	// if err := someFunction(); err != nil {
 // 	//   fmt.Println(err.Error())

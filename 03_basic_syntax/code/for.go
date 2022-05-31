@@ -1,6 +1,6 @@
-// // Uncomment the entire file
+// // // Uncomment the entire file
 
-package main
+// package main
 
 // import "fmt"
 
@@ -16,19 +16,19 @@ package main
 
 // 	// 	// ****************************
 
-// 	// i := 1
+// 	i := 1
 
-// 	// for i <= 100 {
-// 	// 	fmt.Println(i)
-// 	// 	// This will behave like a while loop
-// 	// 	i += 1
-// 	// }
+// 	for i <= 100 {
+// 		fmt.Println(i)
+// 		// This will behave like a while loop
+// 		i += 1
+// 	}
 
-// 	// 	// ****************************
+// 		// ****************************
 
-// 	// var mySentence = "This is a sentence"
+// 	var mySentence = "This is a sentence"
 
-// 	// for index, letter := range mySentence {
-// 	// 	fmt.Println("Index:", index, "Letter:", letter)
-// 	// }
+// 	for index, letter := range mySentence {
+// 		fmt.Println("Index:", index, "Letter:", letter)
+// 	}
 // }
